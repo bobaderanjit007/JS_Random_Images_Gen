@@ -4,6 +4,8 @@ body{
     flex-direction: column;
     align-items: center;
     background-color: brown;
+    background-color: purple;
+    /* background-color: hsla(250, 69% , 61%, 1);; */
 }
 
 .image-container{
@@ -30,4 +32,13 @@ body{
 
 .btn:hover{
     opacity: 0.9;
+}
+
+h2{
+    text-align: center;
+}
+.heading{
+    text-align: right;
+    margin-bottom: 10px;
+    color: white;
 }
